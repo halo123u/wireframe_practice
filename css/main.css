@@ -7,9 +7,23 @@
     -ms-box-sizing:border-box;
     box-sizing: border-box;
 }
+.container{
+    display: block;
+    
+}
+.navbar{
+    height:40px;
+}
 .header{
     height: 70px;
+
 }
+.inner {
+    margin-left:7px;
+    margin-right:7px;
+    height: 100% 
+}
+
 h1 {
     color: blue;
 }
