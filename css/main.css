@@ -11,12 +11,16 @@
     display: block;
     
 }
+.header{
+    height: 90px;
+}
+
 .navbar{
     height:40px;
 }
-.header{
-    height: 70px;
 
+.section{
+    height:600px;
 }
 .inner {
     margin-left:7px;
